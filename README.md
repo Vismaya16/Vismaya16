@@ -10,7 +10,7 @@
 
 Prediction of Covid - 19 using SEIR (Susceptible-Exposed-Infected-Recovered) Mathematical model
 with data implementation and graphical analysis
-using java and MATLAB software
+using java and MATLAB software (https://github.com/Vismaya16/PROJECT-SEIR)
 
 
 ##Internships
